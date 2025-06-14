@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working on an Android project<br>📚 I'm currently about to graduate</p>
+<p align="left">✨<br>📚</p>
 
 ###
 
